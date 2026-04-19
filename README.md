@@ -7,9 +7,8 @@
    <img src="https://i.postimg.cc/mhfQxqN0/1776290462259.jpg width="1200">
     </div>  
     <div align="left">
-    <img src="https://komarev.com/ghpvc/?username=JonnathanBaquero01&color=FFD700" width="200" height="35">
+    <img src="https://komarev.com/ghpvc/?username=RocioBlanco7&color=FFD700" width="200" height="35">
     </div>
-
 
 <h1 align="center" width="1200"> Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Jonathan Baquero" /> I am <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/rocio-blanco7/">Rocio Blanco</a></h1>
 
